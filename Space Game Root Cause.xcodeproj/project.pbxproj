@@ -17,6 +17,14 @@
 		ACFA3B79200F07B400538007 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3B77200F07B400538007 /* LaunchScreen.storyboard */; };
 		ACFA3B84200F07B500538007 /* Space_Game_Root_CauseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFA3B83200F07B500538007 /* Space_Game_Root_CauseTests.swift */; };
 		ACFA3B8F200F07B500538007 /* Space_Game_Root_CauseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFA3B8E200F07B500538007 /* Space_Game_Root_CauseUITests.swift */; };
+		ACFA3B9D200F089D00538007 /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3B9C200F089D00538007 /* Fire.sks */; };
+		ACFA3B9F200F0CF600538007 /* FallingStars.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3B9E200F0CF600538007 /* FallingStars.sks */; };
+		ACFA3BA1200F0E6900538007 /* FireFlies.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3BA0200F0E6900538007 /* FireFlies.sks */; };
+		ACFA3BA3200F0F9C00538007 /* Magic.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3BA2200F0F9C00538007 /* Magic.sks */; };
+		ACFA3BA5200F0FCD00538007 /* Rain.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3BA4200F0FCD00538007 /* Rain.sks */; };
+		ACFA3BA7200F101F00538007 /* Smoke.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3BA6200F101F00538007 /* Smoke.sks */; };
+		ACFA3BA9200F10AF00538007 /* Snow.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3BA8200F10AF00538007 /* Snow.sks */; };
+		ACFA3BAB200F111B00538007 /* Spark.sks in Resources */ = {isa = PBXBuildFile; fileRef = ACFA3BAA200F111B00538007 /* Spark.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +61,14 @@
 		ACFA3B8A200F07B500538007 /* Space Game Root CauseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Space Game Root CauseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACFA3B8E200F07B500538007 /* Space_Game_Root_CauseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Space_Game_Root_CauseUITests.swift; sourceTree = "<group>"; };
 		ACFA3B90200F07B500538007 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACFA3B9C200F089D00538007 /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
+		ACFA3B9E200F0CF600538007 /* FallingStars.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FallingStars.sks; sourceTree = "<group>"; };
+		ACFA3BA0200F0E6900538007 /* FireFlies.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireFlies.sks; sourceTree = "<group>"; };
+		ACFA3BA2200F0F9C00538007 /* Magic.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Magic.sks; sourceTree = "<group>"; };
+		ACFA3BA4200F0FCD00538007 /* Rain.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Rain.sks; sourceTree = "<group>"; };
+		ACFA3BA6200F101F00538007 /* Smoke.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Smoke.sks; sourceTree = "<group>"; };
+		ACFA3BA8200F10AF00538007 /* Snow.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Snow.sks; sourceTree = "<group>"; };
+		ACFA3BAA200F111B00538007 /* Spark.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Spark.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +122,14 @@
 				ACFA3B68200F07B300538007 /* AppDelegate.swift */,
 				ACFA3B6A200F07B400538007 /* GameScene.sks */,
 				ACFA3B6C200F07B400538007 /* Actions.sks */,
+				ACFA3B9C200F089D00538007 /* Fire.sks */,
+				ACFA3B9E200F0CF600538007 /* FallingStars.sks */,
+				ACFA3BA0200F0E6900538007 /* FireFlies.sks */,
+				ACFA3BA2200F0F9C00538007 /* Magic.sks */,
+				ACFA3BA4200F0FCD00538007 /* Rain.sks */,
+				ACFA3BA6200F101F00538007 /* Smoke.sks */,
+				ACFA3BA8200F10AF00538007 /* Snow.sks */,
+				ACFA3BAA200F111B00538007 /* Spark.sks */,
 				ACFA3B6E200F07B400538007 /* GameScene.swift */,
 				ACFA3B70200F07B400538007 /* GameViewController.swift */,
 				ACFA3B72200F07B400538007 /* Main.storyboard */,
@@ -242,9 +266,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACFA3B74200F07B400538007 /* Main.storyboard in Resources */,
+				ACFA3B9D200F089D00538007 /* Fire.sks in Resources */,
 				ACFA3B6B200F07B400538007 /* GameScene.sks in Resources */,
+				ACFA3BA5200F0FCD00538007 /* Rain.sks in Resources */,
 				ACFA3B76200F07B400538007 /* Assets.xcassets in Resources */,
+				ACFA3B9F200F0CF600538007 /* FallingStars.sks in Resources */,
+				ACFA3BA9200F10AF00538007 /* Snow.sks in Resources */,
+				ACFA3BA1200F0E6900538007 /* FireFlies.sks in Resources */,
 				ACFA3B79200F07B400538007 /* LaunchScreen.storyboard in Resources */,
+				ACFA3BA7200F101F00538007 /* Smoke.sks in Resources */,
+				ACFA3BA3200F0F9C00538007 /* Magic.sks in Resources */,
+				ACFA3BAB200F111B00538007 /* Spark.sks in Resources */,
 				ACFA3B6D200F07B400538007 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
